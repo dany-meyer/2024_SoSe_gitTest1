@@ -6,4 +6,6 @@ weitere Änderung im Main
 
 Änderung in Branch1
 
-Änderung in Main
+
+Änderung in Branch2 und in Main
+
