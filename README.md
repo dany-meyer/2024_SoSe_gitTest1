@@ -5,3 +5,5 @@ erste Änderung im Main
 weitere Änderung im Main
 
 Änderung in Branch1
+
+Änderung in Branch2
